@@ -16,7 +16,7 @@ Where We can Add Note in Browser . It can't be delete on refreshing the page unl
 
 ### Project Link
 
-* [https://note-app-lakshyadeep.netlify.app](note-app-lakshyadeep.netlify.app)
+* [note-app-lakshyadeep.netlify.app](https://note-app-lakshyadeep.netlify.app/)
 
 
 
